@@ -29,5 +29,5 @@ box-shadow: inset 0px -1px 0px 0px rgba(0,0,0,0.1);
 }
 
 #dark-mode:checked ~ label div.toggle-circle{
-@apply translate-x-3 bg-dark;
+@apply translate-x-3;
 }
